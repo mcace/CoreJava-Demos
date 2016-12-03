@@ -903,7 +903,7 @@
       <updated>1480600220934</updated>
       <workItem from="1480600221994" duration="626000" />
       <workItem from="1480719257070" duration="9075000" />
-      <workItem from="1480741212913" duration="10542000" />
+      <workItem from="1480741212913" duration="10569000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -989,11 +989,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480759011521</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="P5 Object类 toString方法相关代码">
+      <created>1480759094859</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1480759094859</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20243000" />
+    <option name="totallyTimeSpent" value="20270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1052,7 +1059,8 @@
     <MESSAGE value="P5 Object类相关代码" />
     <MESSAGE value="P5 Object类 equals方法相关代码" />
     <MESSAGE value="P5 Object类 hashCode方法相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5 Object类 hashCode方法相关代码" />
+    <MESSAGE value="P5 Object类 toString方法相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="P5 Object类 toString方法相关代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
