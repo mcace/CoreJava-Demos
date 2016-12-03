@@ -3,7 +3,7 @@ package p5.inheritance;
 import java.util.Date;
 
 /**
- * Created by Mc on 2016/11/29.
+ * Created by Mc on 2016/11/29..
  */
 class Employee {
     private String name;
