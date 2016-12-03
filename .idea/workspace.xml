@@ -6,9 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="P5 Object类 equals方法相关代码">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Manager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/ToStringDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Developer.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Developer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" />
@@ -903,7 +900,7 @@
       <updated>1480600220934</updated>
       <workItem from="1480600221994" duration="626000" />
       <workItem from="1480719257070" duration="9075000" />
-      <workItem from="1480741212913" duration="10569000" />
+      <workItem from="1480741212913" duration="10600000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -996,11 +993,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480759094859</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="P5 Object类 toString方法相关代码">
+      <created>1480759120628</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1480759120628</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20270000" />
+    <option name="totallyTimeSpent" value="20301000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

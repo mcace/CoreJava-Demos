@@ -3,6 +3,7 @@ package p5.inheritance;
 import java.util.Date;
 
 /**
+ * 继承Demo
  * Created by Mc on 2016/11/29..
  */
 class InheritanceDemo {
@@ -11,8 +12,8 @@ class InheritanceDemo {
         manager.setBonus(900);
         Employee employee = manager;//Manager是Employee的子类
         //employee.setBonus(900);//无法调用
-        /*Manager类覆写了Employee的getSalary方法，虽然这时不能调用Manager类，但调用被覆写的方法时
-          被调用的是子类覆写后的方法*/
+        /*Manager类重写了Employee的getSalary方法，虽然这时不能调用Manager类，但调用被重写的方法时
+          被调用的是子类重写后的方法*/
         System.out.println(employee.getSalary());
 
         //强制类型转换

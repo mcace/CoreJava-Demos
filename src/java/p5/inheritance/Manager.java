@@ -3,6 +3,7 @@ package p5.inheritance;
 import java.util.Date;
 
 /**
+ * 经理类，继承Employee类
  * Created by Mc on 2016/11/29.
  */
 class Manager extends Employee {

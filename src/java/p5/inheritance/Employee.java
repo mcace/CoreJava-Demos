@@ -3,6 +3,7 @@ package p5.inheritance;
 import java.util.Date;
 
 /**
+ * 员工类
  * Created by Mc on 2016/11/29..
  */
 class Employee {
