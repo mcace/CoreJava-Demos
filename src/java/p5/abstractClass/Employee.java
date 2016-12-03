@@ -1,6 +1,7 @@
 package p5.abstractClass;
 
 /**
+ * Employee类实现了Person类的所有抽象方法，所以Employee不再被定义为抽象类
  * Created by Mc on 2016/12/3.
  */
 class Employee extends Person {

@@ -1,6 +1,7 @@
 package p5.abstractClass;
 
 /**
+ * Person类
  * Created by Mc on 2016/12/3.
  */
 abstract class Person {

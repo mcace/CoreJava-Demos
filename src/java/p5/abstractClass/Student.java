@@ -4,7 +4,7 @@ package p5.abstractClass;
  * Student实现了Person的所有抽象方法，所以Student不再被定义为抽象类
  * Created by Mc on 2016/12/3.
  */
-public class Student extends Person {
+class Student extends Person {
     private String major;//主修科目
 
     Student(String name, String major) {

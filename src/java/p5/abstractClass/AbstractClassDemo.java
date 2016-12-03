@@ -1,6 +1,7 @@
 package p5.abstractClass;
 
 /**
+ * 抽象类Demo
  * Created by Mc on 2016/12/3.
  */
 class AbstractClassDemo {

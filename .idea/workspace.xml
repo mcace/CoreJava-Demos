@@ -5,7 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/java/p5/object/equals/ObjectDemo.java" line="34" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="">
+    <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="P5 Object类 equals方法相关代码">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/hashCode/HashcodeDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Employee.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Manager.java" />
@@ -19,9 +19,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/InheritanceDemo.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/InheritanceDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Manager.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Manager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/object/equals/Employee.java" afterPath="$PROJECT_DIR$/src/java/p5/object/equals/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/object/equals/Manager.java" afterPath="$PROJECT_DIR$/src/java/p5/object/equals/Manager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/object/equals/ObjectDemo.java" afterPath="$PROJECT_DIR$/src/java/p5/object/equals/ObjectDemo.java" />
     </list>
     <ignored path="CoreJava-Demos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -911,7 +908,7 @@
       <updated>1480600220934</updated>
       <workItem from="1480600221994" duration="626000" />
       <workItem from="1480719257070" duration="9075000" />
-      <workItem from="1480741212913" duration="10240000" />
+      <workItem from="1480741212913" duration="10313000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -983,11 +980,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480754455309</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="P5 Object类 equals方法相关代码">
+      <created>1480758806140</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1480758806140</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19941000" />
+    <option name="totallyTimeSpent" value="20014000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1010,7 +1014,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
