@@ -19,5 +19,13 @@ class ObjectDemo {
 
         //为了避免有对象为null的情况，我们可以调用Objects.equals(Object,Object)方法
         System.out.println(Objects.equals(employee1, employee2));//false
+
+        Manager manager1 = new Manager("mc", 8000, new Date());
+        Manager manager2 = new Manager("Kim", 8000, new Date());
+        Manager manager3 = new Manager("mc", 8000, new Date());
+        //Manager类重写了equals方法，因此可以利用重写后的逻辑判断对象是否相等
+        System.out.println(manager1.equals(manager2));
+        System.out.println(manager1.equals(manager3));
+
     }
 }
