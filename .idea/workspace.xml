@@ -6,15 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="P5 Object类 equals方法相关代码">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/hashCode/HashcodeDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Employee.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/Manager.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/toString/ToStringDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/abstractClass/AbstractClassDemo.java" afterPath="$PROJECT_DIR$/src/java/p5/abstractClass/AbstractClassDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/abstractClass/Employee.java" afterPath="$PROJECT_DIR$/src/java/p5/abstractClass/Employee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/abstractClass/Person.java" afterPath="$PROJECT_DIR$/src/java/p5/abstractClass/Person.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/abstractClass/Student.java" afterPath="$PROJECT_DIR$/src/java/p5/abstractClass/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Developer.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Developer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/java/p5/inheritance/InheritanceDemo.java" afterPath="$PROJECT_DIR$/src/java/p5/inheritance/InheritanceDemo.java" />
@@ -908,7 +903,7 @@
       <updated>1480600220934</updated>
       <workItem from="1480600221994" duration="626000" />
       <workItem from="1480719257070" duration="9075000" />
-      <workItem from="1480741212913" duration="10313000" />
+      <workItem from="1480741212913" duration="10542000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -987,11 +982,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480758806140</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="P5 Object类 hashCode方法相关代码">
+      <created>1480759011521</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1480759011521</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20014000" />
+    <option name="totallyTimeSpent" value="20243000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1049,7 +1051,8 @@
     <MESSAGE value="P5 继承相关代码" />
     <MESSAGE value="P5 Object类相关代码" />
     <MESSAGE value="P5 Object类 equals方法相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5 Object类 equals方法相关代码" />
+    <MESSAGE value="P5 Object类 hashCode方法相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="P5 Object类 hashCode方法相关代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
