@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P11/Compare/CompareDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P11/Compare/NovelNews.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/AbstractClass/AbstractClassDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/AbstractClass/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/AbstractClass/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/AbstractClass/Student.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/Inheritance/Developer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/Inheritance/Employee.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/Inheritance/InheritanceDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java/P5/Inheritance/Manager.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/Manager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/object/ObjectDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoreJava-Demos.iws" />
@@ -35,11 +28,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/p5/inheritance/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/p5/object/ObjectDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/p5/object/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/p5/object/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,6 +105,9 @@
         <option value="$PROJECT_DIR$/src/java/P5/Inheritance/Manager.java" />
         <option value="$PROJECT_DIR$/src/java/P5/Inheritance/Employee.java" />
         <option value="$PROJECT_DIR$/src/java/P5/Inheritance/InheritanceDemo.java" />
+        <option value="$PROJECT_DIR$/src/java/p5/inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/src/java/p5/object/Manager.java" />
+        <option value="$PROJECT_DIR$/src/java/p5/object/ObjectDemo.java" />
       </list>
     </option>
   </component>
@@ -178,6 +206,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreJava-Demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoreJava-Demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="inheritance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -217,7 +271,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.InheritanceDemo">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\github\CoreJava-Demos\src\java\p5\object" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ObjectDemo">
     <configuration default="false" name="InheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -246,6 +305,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="p5.abstractClass.AbstractClassDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CoreJava-Demos" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="p5.object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="p5.object.ObjectDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -652,14 +731,16 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Application.InheritanceDemo" />
       <item index="1" class="java.lang.String" itemvalue="Application.AbstractClassDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ObjectDemo" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.InheritanceDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AbstractClassDemo" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ObjectDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InheritanceDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AbstractClassDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -677,7 +758,7 @@
       <option name="presentableId" value="Default" />
       <updated>1480600220934</updated>
       <workItem from="1480600221994" duration="626000" />
-      <workItem from="1480719257070" duration="6238000" />
+      <workItem from="1480719257070" duration="8153000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -721,14 +802,21 @@
       <option name="project" value="LOCAL" />
       <updated>1480727383933</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="P5 继承相关代码">
+      <created>1480728148603</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480728148603</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6864000" />
+    <option name="totallyTimeSpent" value="8779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="42" width="1940" height="1048" extended-state="1" />
+    <frame x="-10" y="42" width="1940" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -844,6 +932,43 @@
         <state relative-caret-position="192">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/p5/object/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/p5/object/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.7.0_80/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="148" column="19" selection-start-line="148" selection-start-column="19" selection-end-line="148" selection-end-column="19" />
+          <folding>
+            <element signature="e#5860#5861#0" expanded="true" />
+            <element signature="e#5896#5897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/p5/object/ObjectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
