@@ -1,4 +1,4 @@
-package P5.AbstractClass;
+package p5.abstractClass;
 
 /**
  * Student实现了Person的所有抽象方法，所以Student不再被定义为抽象类

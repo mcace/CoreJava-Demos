@@ -1,4 +1,4 @@
-package P11.Compare;
+package p11.compare;
 
 import java.util.*;
 

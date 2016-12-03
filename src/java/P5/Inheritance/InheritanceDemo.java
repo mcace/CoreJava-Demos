@@ -1,4 +1,4 @@
-package P5.Inheritance;
+package p5.inheritance;
 
 import java.util.Date;
 
