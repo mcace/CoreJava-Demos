@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.Objects;
 
 /**
+ * Object类是所有类的父类，定义了一些通用的方法，大多数都在子类中可以重写
  * Created by Mc on 2016/12/3.
  */
 class ObjectDemo {

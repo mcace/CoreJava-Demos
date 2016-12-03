@@ -4,6 +4,7 @@ import java.util.Date;
 import java.util.Objects;
 
 /**
+ * 员工类
  * Created by Mc on 2016/11/29..
  */
 class Employee {
