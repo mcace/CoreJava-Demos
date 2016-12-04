@@ -1,6 +1,7 @@
 package p5.AutoBoxingDemo;
 
 /**
+ * 自动装箱Demo
  * Created by Mc on 2016/12/4.
  */
 class AutoBoxingDemo {

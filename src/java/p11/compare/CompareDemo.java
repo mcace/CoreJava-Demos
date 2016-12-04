@@ -3,6 +3,7 @@ package p11.compare;
 import java.util.*;
 
 /**
+ * 对比Demo
  * Created by Mc on 2016/12/1.
  */
 public class CompareDemo {
