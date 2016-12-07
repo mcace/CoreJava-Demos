@@ -6,7 +6,7 @@ import java.util.Date;
  * 反射相关Demo
  * Created by Mc on 2016/12/7.
  */
-public class Reflection {
+public class ReflectionDemo {
     public static void main(String[] args) throws Exception {
         //Java Runtime System会给每个对象维护一个运行时的类型标识
         //这个信息跟踪着每个对象所属的类
@@ -42,5 +42,8 @@ public class Reflection {
         //但如果需要使用带参数的构造方法，那么就需要用Constructor类的newInstance方法
         //比如Employee没有无参的构造方法，使用Class类的newInstance就会抛出异常InstantiationException
         //Object o = Class.forName("p5.reflection.Employee").newInstance();//java.lang.InstantiationException: p5.reflection.Employee
+
+        //测试打印一个类的信息，需要输入类的完整名
+        ReflectionTest.printClass();
     }
 }

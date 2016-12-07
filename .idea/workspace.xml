@@ -6,9 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6055c416-6524-4752-99cb-72456b7b395d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p14/thread/ThreadDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/reflection/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/reflection/Reflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/p5/reflection/ReflectionTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java/p5/reflection/Reflection.java" afterPath="$PROJECT_DIR$/src/java/p5/reflection/ReflectionDemo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CoreJava-Demos.iws" />
@@ -51,12 +50,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reflection.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/Reflection.java">
+      <file leaf-file-name="ReflectionDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/ReflectionDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="43" column="133" selection-start-line="43" selection-start-column="133" selection-end-line="43" selection-end-column="133" />
+            <state relative-caret-position="281">
+              <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/ReflectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/java/p14/thread/ThreadDemo.java" />
         <option value="$PROJECT_DIR$/src/java/p5/reflection/Employee.java" />
         <option value="$PROJECT_DIR$/src/java/p5/reflection/Reflection.java" />
+        <option value="$PROJECT_DIR$/src/java/p5/reflection/ReflectionTest.java" />
+        <option value="$PROJECT_DIR$/src/java/p5/reflection/ReflectionDemo.java" />
       </list>
     </option>
   </component>
@@ -408,7 +421,7 @@
       <recent name="C:\Users\Administrator\github\CoreJava-Demos\src\java\p5\object" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Reflection">
+  <component name="RunManager" selected="Application.ReflectionDemo">
     <configuration default="false" name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -489,14 +502,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ReflectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="p5.reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="p5.reflection.Reflection" />
+      <option name="MAIN_CLASS_NAME" value="p5.reflection.ReflectionDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -915,11 +928,11 @@
       <item index="1" class="java.lang.String" itemvalue="Application.AutoBoxingDemo" />
       <item index="2" class="java.lang.String" itemvalue="Application.EnumDemo" />
       <item index="3" class="java.lang.String" itemvalue="Application.ThreadDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Reflection" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Reflection" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReflectionDemo" />
         <item index="1" class="java.lang.String" itemvalue="Application.ThreadDemo" />
         <item index="2" class="java.lang.String" itemvalue="Application.EnumDemo" />
         <item index="3" class="java.lang.String" itemvalue="Application.AutoBoxingDemo" />
@@ -947,7 +960,7 @@
       <workItem from="1480872799603" duration="874000" />
       <workItem from="1481025093022" duration="642000" />
       <workItem from="1481110231986" duration="851000" />
-      <workItem from="1481114041819" duration="2340000" />
+      <workItem from="1481114041819" duration="5216000" />
     </task>
     <task id="LOCAL-00001" summary="P5 抽象类相关代码">
       <created>1480725576624</created>
@@ -1089,11 +1102,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480858814796</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="P5 反射相关代码">
+      <created>1481116426138</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1481116426138</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35422000" />
+    <option name="totallyTimeSpent" value="38298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1157,7 +1177,8 @@
     <MESSAGE value="P5 自动装箱相关代码" />
     <MESSAGE value="P5 枚举类相关代码" />
     <MESSAGE value="P5 枚举类型相关代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="P5 枚举类型相关代码" />
+    <MESSAGE value="P5 反射相关代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="P5 反射相关代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1170,20 +1191,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1528,10 +1535,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/Reflection.java">
+    <entry file="jar://C:/Java/jdk1.7.0_80/src.zip!/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="43" column="133" selection-start-line="43" selection-start-column="133" selection-end-line="43" selection-end-column="133" />
+        <state relative-caret-position="185">
+          <caret line="174" column="15" selection-start-line="174" selection-start-column="15" selection-end-line="174" selection-end-column="15" />
+          <folding>
+            <element signature="e#5979#5980#0" expanded="true" />
+            <element signature="e#6011#6012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/ReflectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/p5/reflection/ReflectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
           <folding />
         </state>
       </provider>
