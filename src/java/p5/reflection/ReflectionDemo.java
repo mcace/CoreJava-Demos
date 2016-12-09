@@ -1,5 +1,6 @@
 package p5.reflection;
 
+import java.lang.reflect.Method;
 import java.util.Date;
 
 /**
@@ -44,6 +45,11 @@ public class ReflectionDemo {
         //Object o = Class.forName("p5.reflection.Employee").newInstance();//java.lang.InstantiationException: p5.reflection.Employee
 
         //测试打印一个类的信息，需要输入类的完整名
-        ReflectionTest.printClass();
+        //ReflectionTest.printClass();//请去掉注释进行测试
+
+        //Class的getMethod(String,Class..)方法可以搜索到指定名字的方法，第一个参数传递方法名，后面传递方法参数
+        //Method类的invoke(Object,Object..)方法可以调用类的方法，第一个参数传递操作对象，后面的传递方法参数
+        Method m1 = Employee.class.getMethod("getName");
+        System.out.println("m1.invoke = " + m1.invoke(e));
     }
 }
