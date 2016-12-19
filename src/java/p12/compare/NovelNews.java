@@ -1,4 +1,4 @@
-package p11.compare;
+package p12.compare;
 
 /**
  * Created by Mc on 2016/12/1.
