@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
+ * 异常Demo
  * Created by Mc on 2016/12/19.
  */
 public class ExceptionDemo {
@@ -41,7 +42,7 @@ public class ExceptionDemo {
         //可以使用getSuppressed方法获得被抑制的异常
         try (Scanner in = new Scanner(new FileInputStream(filePath));
              PrintWriter out = new PrintWriter(filePath)) {
-            while (in.hasNext()){
+            while (in.hasNext()) {
                 System.out.println(in.next());
             }
         } catch (FileNotFoundException e) {
